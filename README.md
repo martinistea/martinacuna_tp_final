@@ -1,7 +1,8 @@
 # martinacuna_tp_final
 TP Final Infraestructura de servidores
 
---Explicacion dockerfile
+--Explicacion dockerfile:
+
 	El archivo dockerfile generado para la construcción de la imagen contiene las siguientes entradas:
 #Instalar SO CentOS 7
 FROM centos:7
