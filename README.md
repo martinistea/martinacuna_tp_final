@@ -43,6 +43,7 @@
   - dockerfile: contiene la información para la contrucción de la imagen
   - docker.crt: contiene el certificado para conexión SSL
   - docker.key: contiene la llave para conexión SSL
+  - ssl.conf: contiene la configuración para la utilización de SSL en Apache
   - startbootstrap-sb-admin-2: contiene una página web de ejemplo
 
 
